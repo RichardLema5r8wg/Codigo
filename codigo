@@ -11,4 +11,4 @@ else:
         print(f"{i+1}. SSID: {ssid}  |  Señal: {rssi} dBm  |  Seguridad: {tipo}")
 
 time.sleep(5)
-  
+   
